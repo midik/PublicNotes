@@ -142,12 +142,14 @@ How to make a custom clearance for a car in Bosnia and Herzegovina / Kako carini
 
 ##### Пример расчета пошлины для 12500 EUR:
 12.500 Eur-a je 24.447 KM X 10% carine je 2.447 KM
+
 Osnovica za obračun PDV je 24.447+2447 je 26.894,5x17% PDV je 4.572 KM
+
 Ukupan iznos je 7.019 KM uvoznih dadžbina.
 
 
 
-ссылки
+### Ссылки
 1. https://www.homologacija.gov.ba/images/Spisak_ovlascenih_zastupnika_proizvodjaca2.pdf
 2. https://www.uino.gov.ba/portal/hr/informacije-gradanima-hr/uvoz-motornih-vozila/
 3. https://centar-motor.com/wp-content/uploads/2022/11/Popis_homologacija.pdf
