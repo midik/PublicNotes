@@ -24,7 +24,7 @@ How to make a custom clearance for a car in Bosnia and Herzegovina / Kako carini
 
 
 ### Требования к владельцу
-- Наличие ВНЖ (privremeni boravak - подходит)
+- Наличие ВНЖ (privremeni boravak - подходит) **не менее шести месяцев** от даты постановки на учет
 - Наличие JIB (налоговый номер). Делается в Poreska Uprava.
 - Наличие JMBG (Matični broj građana), но это не точно. Его можно иметь и не будучи гражданином, например - если получали местное в/у (driver license), Делается в MUP. Уточните у экспедитора, нужен ли он.
 
@@ -115,11 +115,11 @@ How to make a custom clearance for a car in Bosnia and Herzegovina / Kako carini
 Срок регистрации будет ограничен сроком действия ВНЖ. При продлении ВНЖ придется продлевать и регистрацию. 
 
 Что нужно:
-- ovjerena kopija rjesenja o privremenom boravku (зависит от типа ВНЖ)
+- ovjerena kopija rjesenja o privremenom boravku (зависит от типа ВНЖ), действующий от 6 мес.
 - ovjerena kopija pasosa sa stikerom boravka
 - broj iz poreske uprave (porez) - JIB
 - все доки от экспедитора
-- СТС, ПТС
+- СТС, ПТС и их переводы на сербский язык
 - оплатить пошлину
 - текущие рег.знаки
 
