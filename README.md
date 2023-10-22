@@ -1,2 +1,2 @@
 - [Как растаможить машину из РФ в Боснии и Герцеговине](CarCustomsClearance.md)
-- [Off-road маршруты и интересные места в Боснии](RuralRoadsBosnia)
+- [Off-road маршруты и интересные места в Боснии](RuralRoadsBosnia.md)
